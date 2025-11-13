@@ -129,7 +129,7 @@ Ganesh Kunde
 
 🖼️ Screenshots
 
-🏠 Homepage
+🏠 Homepage:(https://github.com/Ganesh7509/React-Bright-Campus/blob/main/src/assets/Screenshot%20(115).png)
 
 
 
